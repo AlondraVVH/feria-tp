@@ -1,13 +1,4 @@
-﻿/*!
-* Created by Kroplet (https://www.kroplet.com) 
-* The easiest way to create Bootstrap 4 themes. 
-*/
-
-/*!
-* Bootstrap v4.1.0 (https://getbootstrap.com) 
-* Copyright 2011-2017 The Bootstrap Authors 
-* Copyright 2011-2017 Twitter, Inc. 
-* Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)*/
+﻿
 :root {
   --blue: #2979ff;
   --indigo: #3d5afe;
@@ -1805,7 +1796,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   white-space: nowrap;
   vertical-align: middle;
   -webkit-user-select: none;
-     -moz-user-select: none;
+    -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
   border: 2px solid transparent;
